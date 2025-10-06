@@ -79,7 +79,7 @@ Use SQL analytics and window functions to produce actionable insights including:
 
 ## Explanation:
 
-- **/Data folder:** Stores all raw and cleaned datasets, with clear separation.
-- **/SQL_Scripts folder:** Contains all SQL-related scripts, categorized by purpose.
-- **/Reports folder:** Includes presentation files and documentation that summarize findings.
+- **Data folder:** Stores all raw and cleaned datasets, with clear separation.
+- **SQL_Scripts folder:** Contains all SQL-related scripts, categorized by purpose.
+- **Reports folder:** Includes presentation files and documentation that summarize findings.
 - The `README.md` files serve as documentation for understanding the structure, project overview, and instructions on how to set up and execute scripts.
