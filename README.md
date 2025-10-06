@@ -4,6 +4,10 @@ SQL-based report containing order details for analysis of sales, order trends, a
 - <a href = "https://github.com/bsyamini/Order-Details-SQL-Report/tree/main/data"> Dataset </a>
 ## SQL Queries uesd to pull the data
 - <a href = "https://github.com/bsyamini/Order-Details-SQL-Report/tree/main/sql_scripts"> Queries List </a>
+## Power BI Dashboard
+- <a href= "https://github.com/bsyamini/Order-Details-Dashboard-Power-BI/blob/main/Screenshot.png"> Dashboard Screenshot <a/>
+## Excel Report
+- <a href = "https://github.com/bsyamini/Order-Details-Report.xlsx/blob/main/Order_Details_Report.xlsx"> Excel Report <a/>
 
 # Project Overview: Order Details Data Analysis
 
@@ -29,6 +33,7 @@ This project focuses on managing and analyzing detailed order transaction data t
 
 ## Tools and Techniques:
 - SQL for querying, aggregation, and data manipulation
+- Excel used to clean the data
 - Bulk insert operations for efficient large data loads
 - Window functions for trend and moving average calculations
 - Data validation and cleaning strategies
