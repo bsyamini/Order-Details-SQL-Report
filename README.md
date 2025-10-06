@@ -1,5 +1,9 @@
 # Order-Details-SQL-Report
 SQL-based report containing order details for analysis of sales, order trends, and customer behavior.
+##Dataset
+- <a href = "https://github.com/bsyamini/Order-Details-SQL-Report/tree/main/data"> Dataset </a>
+##SQL Queries uesd to pull the data
+- <a href = "https://github.com/bsyamini/Order-Details-SQL-Report/tree/main/sql_scripts"> Queries List </a>
 
 # Project Overview: Order Details Data Analysis
 
