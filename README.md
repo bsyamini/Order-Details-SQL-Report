@@ -55,33 +55,31 @@ Use SQL analytics and window functions to produce actionable insights including:
 - Detection and management of data anomalies such as missing item_id entries  
 - Support business stakeholders in strategic inventory and sales planning  
 
+# Project Repository Structure
+
 /Order_Details_Analysis_Project
 │
 ├── /Data
-│   ├── /Raw_Data
-│   │   └── order_details.xlsx            # Raw dataset of order details in XLSX format
-│   └── /Cleaned_Data
-│       └── Order_Details_Report.xlsx     # Cleaned dataset with pivot tables and sorted data
+│ ├── /Raw_Data
+│ │ └── order_details.xlsx # Raw dataset of order details in XLSX format
+│ └── /Cleaned_Data
+│ └── Order_Details_Report.xlsx # Cleaned dataset with pivot tables and sorted data
 │
 ├── /SQL_Scripts
-│   ├── create_tables.sql                 # SQL script for creating database tables
-│   ├── insert_data.sql                   # SQL script for inserting data into tables
-│   ├── analysis_queries_
-│     summary_report.sql                  # SQL queries for data analysis and reporting,
-│                                         Additional queries for summary or report generation
-│                                     
+│ ├── create_tables.sql # SQL script for creating database tables
+│ ├── insert_data.sql # SQL script for inserting data into tables
+│ ├── analysis_queries.sql # SQL queries for data analysis and reporting
+│ └── summary_report.sql # Additional queries for summary or report generation
 │
 ├── /Reports
-│   ├── order_report.ppt                  # PowerPoint presentation for order analysis report
-│   └── README.md                         # Markdown file explaining project structure and instructions
+│ ├── order_report.ppt # PowerPoint presentation for order analysis report
+│ └── README.md # Markdown file explaining project structure and instructions
 │
-└── README.md                             # Main documentation for the entire project including overview, setup, and usage
+└── README.md # Main documentation for the entire project including overview, setup, and usage
 
-Explanation:
-/Data folder: Stores all raw and cleaned datasets, with clear separation.
+## Explanation:
 
-/SQL_Scripts folder: Contains all SQL-related scripts, categorized by purpose.
-
-/Reports folder: Includes presentation files and documentation that summarize findings.
-
-The README.md files serve as documentation for understanding the structure, project overview, and instructions on how to set up and execute scripts.
+- **/Data folder:** Stores all raw and cleaned datasets, with clear separation.
+- **/SQL_Scripts folder:** Contains all SQL-related scripts, categorized by purpose.
+- **/Reports folder:** Includes presentation files and documentation that summarize findings.
+- The `README.md` files serve as documentation for understanding the structure, project overview, and instructions on how to set up and execute scripts.
