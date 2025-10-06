@@ -63,22 +63,22 @@ Use SQL analytics and window functions to produce actionable insights including:
 │
 ├── Data/
 │ ├── Raw_Data/
-│ │ └── order_details.xlsx # Raw dataset of order details in XLSX format
+│ │ └── order_details.xlsx                # Raw dataset of order details in XLSX format
 │ │
 │ └── Cleaned_Data/
-│ └── Order_Details_Report.xlsx # Cleaned dataset with pivot tables and sorted data
+│ └── Order_Details_Report.xlsx            # Cleaned dataset with pivot tables and sorted data
 │
 ├── SQL_Scripts/
-│ ├── create_tables.sql # SQL script for creating database tables
-│ ├── Data_Insertion.sql # SQL script for inserting data into tables
-│ ├── analysis_queries.sql # SQL queries for data analysis and reporting, additional queries for summary or report generation
-│ └── questions_used_to_pull_the_data # Data through the queries pulled from dataset
+│ ├── create_tables.sql                    # SQL script for creating database tables
+│ ├── Data_Insertion.sql                   # SQL script for inserting data into tables
+│ ├── analysis_queries.sql                 # SQL queries for data analysis and reporting, additional queries for summary or report generation
+│ └── questions_used_to_pull_the_data      # Data through the queries pulled from dataset
 │
 ├── Reports/
-│ ├── order_report.ppt # PowerPoint presentation for order analysis report
-│ └── README.md # Markdown file explaining project structure and instructions
+│ ├── order_report.ppt                     # PowerPoint presentation for order analysis report
+│ └── README.md                            # Markdown file explaining project structure and instructions
 │
-└── README.md # Main documentation for the entire project including overview, setup, and usage 
+└── README.md                              # Main documentation for the entire project including overview, setup, and usage 
  ``` 
 
 
